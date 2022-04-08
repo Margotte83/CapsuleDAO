@@ -21,7 +21,8 @@ Once you set up your wallet, be sure to switch the network to "Rinkeby" which is
 
 ### ***📝 Create a place to run thirdweb scripts**
 Now we need to actually write some scripts that let us create/deploy our contract to Rinkeby using thirdweb. The first thing we're going to do is create a .env file that looks like this in the root of our project.
-```PRIVATE_KEY=YOUR_PRIVATE_KEY_HERE
+```
+PRIVATE_KEY=YOUR_PRIVATE_KEY_HERE
 WALLET_ADDRESS=YOUR_WALLET_ADDRESS
 ALCHEMY_API_URL=YOUR_ALCHEMY_API_URL
 ```
