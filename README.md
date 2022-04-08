@@ -1,6 +1,6 @@
 # 🦄 buildspace x thirdweb - Build an DAO -
 This project is for devs that want to better understand what the heck a DAO is by just building one themselves.
-We'll be using this fancy tool called[thirdweb](https://thirdweb.com/?utm_source=buildspace) which lets us work with smart contracts using just JavaScript.
+We'll be using this fancy tool called [thirdweb](https://thirdweb.com/?utm_source=buildspace) which lets us work with smart contracts using just JavaScript.
 
 ### **Welcome 👋**
 To get started with this app., clone this repo and follow these commands:
